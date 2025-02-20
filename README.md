@@ -1,9 +1,8 @@
-## Hi there 👋
+# Olá, Giovanni! 
 
+## Bem vindo ao meu perfil GitHub 🤠🤠
 
-**GiovanniALT/GiovanniALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a href="gdc23330@gmail.com">
+<a href="gdc23330@gmail.com"> gdc23330@gmail.com
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
