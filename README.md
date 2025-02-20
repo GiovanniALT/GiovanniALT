@@ -1,8 +1,8 @@
-# Olá, Giovanni! 
+# Olá,Me chamo Giovanni! 
 
 ## Bem vindo ao meu perfil GitHub 🤠🤠
 
-<a href="gdc23330@gmail.com"> gdc23330@gmail.com
+gdc23330@gmail.com<a href="gdc23330@gmail.com"> gdc23330@gmail.com
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
