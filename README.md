@@ -9,4 +9,4 @@
 </a>
 
 
-<a href = "gdc23330@gmail.comGiovanniALT"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div class="tenor-gif-embed" data-postid="25326537" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/dog-meme-gif-25326537">Dog Meme GIF</a>from <a href="https://tenor.com/search/dog-gifs">Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
